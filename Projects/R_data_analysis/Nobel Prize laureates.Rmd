@@ -42,7 +42,7 @@ Data used in this project comes from *public.opendatasoft.com* website and it in
 At the beginning, let's take a look at the dataset by checking the column names.
 
 ```{r read_data, include=FALSE}
-data <- read.csv(file = "C:/Users/Ola/Desktop/Nobel/nobel-prize-laureates_working.csv",
+data <- read.csv(file = "nobel-prize-laureates.csv",
                  header = TRUE)
 data <- data %>% mutate(Gender = ifelse(Gender == "org", "organization",Gender))
 ```
