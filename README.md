@@ -1,6 +1,6 @@
 ## Hello world! :wave:
 
-My name is Aleksandra and I am making my first steps into the wide and vibrant world of Data :climbing_woman: .__
+My name is Aleksandra and I am making my first steps into the wide and vibrant world of Data :climbing_woman: .<br>
 I am a Technical Physics graduate and a Junior Analyst. 
 
 ### projects - **free time/self-study projects** :chart_with_upwards_trend: and **publications** :woman_student:
