@@ -4,5 +4,5 @@
 Analysis done in January 2023 entirely with R language.
 
 In Nobel-Prize-laureates_analysis.pdf file, there are some interesting statistics originally hidden behind messy numbers and values. 
-Charts and fact about laureates' age, names, gender and prize motivation?
+Charts and facts about laureates' age, names, gender and prize motivations?
 Feel free to find out! :point_up:
