@@ -8,4 +8,4 @@ I am a Technical Physics graduate and I work as a Junior Analyst.
 In Projects directory you can view projects I do in my free time with the aim of self-study and skills development. 
 In Publications directory, there are scientific articles which I co-authored during my university and post-university time.
 
-And there will only be more! :v: :monocle_face:	
+And there will be only more! :v: :monocle_face:	
